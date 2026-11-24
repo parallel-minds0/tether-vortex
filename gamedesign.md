@@ -94,25 +94,25 @@ The top row groups the three formal roles as cold. The rows below show what risi
 
 ```
 ┌────────────────────┬────────────────────┬────────────────────┐
-│       LAWFUL         │       NEUTRAL        │       CHAOTIC        │
+│       LAWFUL       │       NEUTRAL      │       CHAOTIC      │
 ├────────────────────┼────────────────────┼────────────────────┤
-│      ENGINEER         │      MASTERMIND       │      OPERATIVE         │  ← COLD
-│  Crystalline Solid     │    Liquid Crystal     │      Superfluid          │
-│  fixed lattice,        │   ordered + mobile,   │   frictionless flow,     │
-│  timeless order        │   responsive          │   near-zero resistance   │
+│      ENGINEER      │      MASTERMIND    │      OPERATIVE     │  ← COLD
+│  Crystalline Solid │    Liquid Crystal  │      Superfluid    │
+│  fixed lattice,    │   ordered + mobile,│   frictionless flow,│
+│  timeless order    │   responsive       │   near-zero resistance│
 ├────────────────────┼────────────────────┼────────────────────┤
-│      (unnamed)         │      (unnamed)        │       THE DEEP           │  ← WARM
-│  Amorphous Solid/       │    Gel / Colloid      │  Annealing (molten)      │
-│  Glass,  rigid but      │    part-order,        │  structure liquefied     │
-│  order lost, brittle    │    part-flow,         │  by heat, restructuring  │
-│  under heat             │    energized          │  through disorder        │
+│      (unnamed)     │      (unnamed)     │       THE DEEP     │  ← WARM
+│  Amorphous Solid/  │    Gel / Colloid   │  Annealing (molten)│
+│  Glass,  rigid but │    part-order,     │  structure liquefied│
+│  order lost, brittle│    part-flow,     │  by heat, restructuring│
+│  under heat        │    energized       │  through disorder  │
 ├────────────────────┼────────────────────┼────────────────────┤
-│    EVIL ENGINEER        │      (unnamed)        │     PURE PLASMA           │  ← HOT
-│    Plasma Crystal       │       Plasma          │    Ionized Chaos          │
-│  (dusty plasma),        │    energetic,         │   total structure         │
-│  hot, but structure     │    coherence          │   collapse, no lattice,   │
-│  forcibly held rigid    │    failing            │   no flow-memory left     │
-│  = dogma under heat     │                       │                           │
+│    EVIL ENGINEER   │      (unnamed)     │     PURE PLASMA    │  ← HOT
+│    Plasma Crystal  │       Plasma       │    Ionized Chaos   │
+│  (dusty plasma),   │    energetic,      │   total structure  │
+│  hot, but structure│    coherence       │   collapse, no lattice,│
+│  forcibly held rigid│    failing        │   no flow-memory left│
+│  = dogma under heat│                    │                    │
 └────────────────────┴────────────────────┴────────────────────┘
 ```
 
